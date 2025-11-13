@@ -1,0 +1,125 @@
+{
+  "version": 0.1,
+  "files": {
+    "[lang]/page.tsx": {
+      "scopes": {
+        "0/declaration/body/0/argument/1": {
+          "type": "element",
+          "hash": "b31535397001e58b06d24bebeb3c38b7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hello, my name is Sachin."
+        },
+        "0/declaration/body/0/argument/3": {
+          "type": "element",
+          "hash": "c1d8833f36980646d792e146adbc196c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "I am a software developer ready to win this hackathon."
+        },
+        "0/declaration/body/0/argument/5": {
+          "type": "element",
+          "hash": "0b2966bdd1c0f98493652cdb789a06ee",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "My multilingual project is already working today."
+        },
+        "1/declaration/body/1/consequent/0/argument/1": {
+          "type": "element",
+          "hash": "03c56c5af283ed8982d87c9c0a0139c6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading translations..."
+        },
+        "1/declaration/body/3/consequent/0/argument/1": {
+          "type": "element",
+          "hash": "f69c31fd20e303e414808d2eb09a2701",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Debugging..."
+        },
+        "1/declaration/body/3/consequent/0/argument/3": {
+          "type": "element",
+          "hash": "1252c957005db3ebf83577b9d35a436c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Please check your **Browser Console (Cmd+Option+J)**."
+        },
+        "1/declaration/body/3/consequent/0/argument/5": {
+          "type": "element",
+          "hash": "d804895db14c0ff473d4feb2186f816a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "It will show the keys available inside the lingoObject."
+        },
+        "1/declaration/body/4/consequent/0/argument/1": {
+          "type": "element",
+          "hash": "de2b30d2e7d6671576b4468272a47bbf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Translation system loading or failed..."
+        },
+        "1/declaration/body/4/consequent/0/argument/3": {
+          "type": "element",
+          "hash": "4f859ca750d596ae14c8deaa0fecfb8d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Debug: 't' is not a function. Check the browser console for details."
+        },
+        "1/declaration/body/4/consequent/0/argument/5": {
+          "type": "element",
+          "hash": "2780aee13d688afb03b75c812c1169f1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "(This is the \"TypeError: t is not a function\" you saw in the terminal)"
+        },
+        "2/declaration/body/2/consequent/0/argument/1": {
+          "type": "element",
+          "hash": "03c56c5af283ed8982d87c9c0a0139c6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Loading translations..."
+        }
+      }
+    },
+    "page.tsx": {
+      "scopes": {
+        "0/declaration/body/0/argument/1": {
+          "type": "element",
+          "hash": "b31535397001e58b06d24bebeb3c38b7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hello, my name is Sachin."
+        },
+        "0/declaration/body/0/argument/3": {
+          "type": "element",
+          "hash": "c1d8833f36980646d792e146adbc196c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "I am a software developer ready to win this hackathon."
+        },
+        "0/declaration/body/0/argument/5": {
+          "type": "element",
+          "hash": "0b2966bdd1c0f98493652cdb789a06ee",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "My multilingual project is already working today."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "nav": { "home": "Home", "projects": "Projects", "contact": "Contact" },
+  "hero": {
+    "title": "Building the Future with AI",
+    "subtitle": "I am a Full-Stack Developer specializing in Next.js and Generative AI.",
+    "cta": "View My Work"
+  },
+  "projectsSection": {
+    "title": "Featured Work"
+  },
+  "projects": [
+    {
+      "title": "AI Resume Scanner",
+      "desc": "An automated tool that uses GPT-4 to score resumes against job descriptions.",
+      "tech": "Python, OpenAI, React"
+    },
+    {
+      "title": "Globalfolio",
+      "desc": "A context-aware multilingual portfolio built with Next.js 14 and Tailwind.",
+      "tech": "Next.js, i18n, Tailwind"
+    },
+    {
+      "title": "Crypto Tracker",
+      "desc": "Real-time cryptocurrency dashboard using WebSocket connections.",
+      "tech": "Node.js, WebSockets"
+    }
+  ]
+}

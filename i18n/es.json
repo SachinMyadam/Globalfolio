@@ -1,0 +1,28 @@
+{
+  "nav": { "home": "Inicio", "projects": "Proyectos", "contact": "Contacto" },
+  "hero": {
+    "title": "Construyendo el Futuro con IA",
+    "subtitle": "Soy un desarrollador Full-Stack especializado en Next.js e IA generativa.",
+    "cta": "Ver Mi Trabajo"
+  },
+  "projectsSection": {
+    "title": "Proyectos Destacados"
+  },
+  "projects": [
+    {
+      "title": "Escáner de CV con IA",
+      "desc": "Herramienta automatizada que usa GPT-4 para evaluar CVs contra ofertas de trabajo.",
+      "tech": "Python, OpenAI, React"
+    },
+    {
+      "title": "Globalfolio",
+      "desc": "Portafolio multilingüe sensible al contexto construido con Next.js 14.",
+      "tech": "Next.js, i18n, Tailwind"
+    },
+    {
+      "title": "Rastreador Cripto",
+      "desc": "Panel de criptomonedas en tiempo real usando conexiones WebSocket.",
+      "tech": "Node.js, WebSockets"
+    }
+  ]
+}
