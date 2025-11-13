@@ -27,7 +27,6 @@ export default async function Page({ params }: { params: Promise<{ lang: string 
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100">
         <div className="flex justify-between items-center p-6 max-w-6xl mx-auto">
           
-          {/* 👇 UPDATED NAME TO GLOBALFOLIO 👇 */}
           <div className="font-bold text-2xl tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 cursor-pointer flex items-center gap-2">
             ⚡️ Globalfolio
           </div>
@@ -53,17 +52,16 @@ export default async function Page({ params }: { params: Promise<{ lang: string 
           </p>
         </motion.div>
 
-        {/* 👇 FIXED BUTTON SECTION 👇 */}
+        {/* 👇 FINAL FIXED BUTTON SECTION 👇 */}
         <motion.div 
           initial={{ opacity: 0, scale: 0.9 }} 
           animate={{ opacity: 1, scale: 1 }} 
           transition={{ delay: 0.4 }}
-          // Added 'items-start' to stop stretching
-          className="flex flex-col sm:flex-row justify-center items-start gap-4"
+          // Full width on mobile, auto-width on desktop
+          className="flex flex-col sm:flex-row justify-center items-start gap-4 w-full px-6 sm:w-auto sm:px-0"
         >
           {/* Button 1: Standard CTA */}
-          {/* Added 'h-12' to force specific height */}
-          <button className="bg-black text-white px-8 py-3 rounded-full font-semibold hover:bg-gray-800 transition-all hover:scale-105 shadow-lg h-12 whitespace-nowrap">
+          <button className="bg-black text-white px-8 py-3 rounded-full font-semibold hover:bg-gray-800 transition-all hover:scale-105 shadow-lg h-12 whitespace-nowrap w-full sm:w-auto">
             {dict.hero.cta} →
           </button>
 
