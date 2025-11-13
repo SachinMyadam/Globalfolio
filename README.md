@@ -19,3 +19,8 @@ Globalfolio is a Next.js 14 application that redefines personal branding for the
 2. Run `npm install`
 3. Run `npm run dev`
 4. Open `localhost:3000/en`
+## 📊 Architecture
+
+This project uses a modern Next.js 14 architecture to separate server-side logic from client-side interactivity.
+
+![Globalfolio Architecture Diagram](architecture-diagram.png)
